@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+html {
+    background-color: #F5E8C7;
+}
+
+li {
+    list-style-position: inside;
+}
+
+a{
+    color: #6F4C5B;
+}
+
+article {
+    color: #6F4C5B;
+}
+
+p{
+    color: #9E7777;
+}
